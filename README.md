@@ -1,2 +1,2 @@
 # CPF-and-CNPJ-validator
-Python procedural programming 
+Script that checks if a cpf or a cnpj is valid.
